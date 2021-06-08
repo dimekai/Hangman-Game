@@ -5,9 +5,12 @@
 * Date: June 2021
 * Version: 1.0
 
-<img align="center" src="./archivos/Hangman.png" width="800"/>
+<img align="center" src="./archivos/Hangman.png" width="500"/>
 
-<video src="./archivos/vid_hangman.mp4" width="640" height="480"></video>
+<p></p>
+
+<img align="center" src="./archivos/vid_hangman.gif" width="800"/>
+
 
 ## Instructions to play
 1. Download the repository, you just have to execute the next command in the command line:
