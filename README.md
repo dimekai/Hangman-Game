@@ -9,11 +9,10 @@
 
 <video src="./archivos/vid_hangman.mp4" width="640" height="480"></video>
 
-
 ## Instructions to play
 1. Download the repository, you just have to execute the next command in the command line:
 
-```>  git clone url```
+```>  git clone https://github.com/dimekai/Hangman-Game```
 
 2. Execute the script:
 
